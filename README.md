@@ -1,0 +1,6 @@
+- 👋 Merhaba, ben @olafkaler0
+- 👀 İlgi alanlarım arasında siber güvenlik ve gelişmiş tehdit istihbaratı yer alıyor.
+- 🌱 Şu anda exploit geliştirme ve zararlı yazılım analizi üzerine yeni teknikler öğreniyorum.
+- 💞️ Geleneksel siber güvenlik önlemlerinin sınırlarını zorlayan yenilikçi projelerde işbirliği yapmayı hedefliyorum.
+- 📫 Bana ulaşmak için şifreli iletişimi kullanın. PGP anahtarım talep üzerine sağlanabilir.
+- ⚡ Eğlenceli bilgi: İlk yazılımımı 12 yaşında geliştirdim. Şimdi, güvenlik operasyonları için sofistike araçlar geliştiren yetenekli bir ekibi yönetiyorum.
